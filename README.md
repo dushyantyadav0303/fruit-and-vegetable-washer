@@ -35,7 +35,7 @@
 ## About the Project
 
 
-**Fruit and Vegetable washer** - fruit and vegetable washer: It is a Washer that Clean the Vegetables/Fruits using Water pressure.
+**Fruit and Vegetable washer** - It is a Washer that Clean the Vegetables/Fruits using Water pressure. Water apply force on Fruit which make them spin and Clean
 
 
 ## Repository Structure
