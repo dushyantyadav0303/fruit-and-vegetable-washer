@@ -32,6 +32,8 @@
 
 </p>
 
+## Printable Link: https://www.printables.com/model/1800634-fruit-and-vegetable-washer
+
 ## About the Project
 
 
