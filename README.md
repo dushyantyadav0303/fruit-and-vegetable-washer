@@ -19,6 +19,7 @@
   <a href="#repository-structure">Structure</a> •
   <a href="#cad">CAD</a> •
   <a href="#Render">Render</a> •
+   <a href="#bill-of-materials">BOM</a> •
   <a href="#Production">Production</a> •
   <a href="#license">License</a> •
   <a href="#credits">Credits</a>
@@ -67,6 +68,16 @@
 </div>
 
 - source: `Render`  
+
+## Bill of Materials
+
+Source: `BOM.csv`
+
+|item         |Qantity|price|link to buy                                     |
+|-------------|-------|-----|------------------------------------------------|
+|Pla+ filament|300gram|3$   |https://india.numakers.com/products/pla-filament|
+
+
 
 ## Production
 <div align="center">
