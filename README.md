@@ -40,6 +40,8 @@
 
 **Fruit and Vegetable washer** - It is a Washer that Clean the Vegetables/Fruits using Water pressure. Water apply force on Fruit which make them spin and Clean
 
+## why i made this?
+### short answer I'm too lazy. I want to make something which clean my Vegetables and fruit Independently So adding motor to clean them is not Convenient. So i use water pressure to spin and clean them.
 
 ## Repository Structure
 - `src/`  Blender project sources
